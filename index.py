@@ -1,2 +1,3 @@
 print("Hello world")
-print(Good evening)
+print("Hi Shadrack")
+print("I'm learning faster")
